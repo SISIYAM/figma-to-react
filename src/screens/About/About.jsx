@@ -24,7 +24,7 @@ export const About = () => {
           </div>
           <div>
             <img
-              src="/public/Rectangle 163.png"
+              src="/Rectangle 163.png"
               alt="Digital Innovation"
               className="rounded-lg shadow-md"
             />
@@ -33,17 +33,13 @@ export const About = () => {
 
         {/* Vision Section */}
         <div className="mt-16 bg-gray-100 py-10 px-6 rounded-lg text-center">
-          <img src="/public/CTA 2.png" alt="" srcset="" />
+          <img src="/CTA 2.png" alt="" srcset="" />
         </div>
 
         {/* Core Values Section */}
         <div className="mt-16 text-center">
           <h2 className="text-4xl font-bold text-gray-900">Our Core Values</h2>
-          <img
-            className=""
-            src="/public/Screenshot 2025-03-16 162833.png"
-            alt=""
-          />
+          <img className="" src="/Screenshot 2025-03-16 162833.png" alt="" />
           <div className="grid md:grid-cols-3 gap-8 mt-10"></div>
 
           {/* Buttons */}
